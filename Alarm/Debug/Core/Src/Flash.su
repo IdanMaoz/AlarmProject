@@ -1,0 +1,3 @@
+../Core/Src/Flash.c:25:13:pageSelect	16	static
+../Core/Src/Flash.c:42:6:Flash_erase	24	static
+../Core/Src/Flash.c:62:6:Flash_program	24	static

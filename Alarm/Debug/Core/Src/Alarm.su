@@ -1,0 +1,10 @@
+../Core/Src/Alarm.c:35:5:Alarm_add	112	static
+../Core/Src/Alarm.c:68:5:Alarm_delete	24	static
+../Core/Src/Alarm.c:97:6:Alarm_stop	16	static
+../Core/Src/Alarm.c:114:5:Alarm_changeMelody	24	static
+../Core/Src/Alarm.c:139:6:Alarm_clearAll	16	static
+../Core/Src/Alarm.c:162:6:Alarm_edit	32	static
+../Core/Src/Alarm.c:181:6:addSnoozeTime	24	static
+../Core/Src/Alarm.c:199:6:Alarm_startTask	32	static
+../Core/Src/Alarm.c:239:6:Alarm_print	72	static
+../Core/Src/Alarm.c:258:6:Alarm_flashToAlarms	16	static

@@ -1,0 +1,7 @@
+../Core/Src/Buzzer.c:31:6:Buzzer_init	16	static
+../Core/Src/Buzzer.c:46:6:Buzzer_changeToOn	16	static
+../Core/Src/Buzzer.c:62:6:Buzzer_changeToOff	16	static
+../Core/Src/Buzzer.c:78:13:Buzzer_getState	16	static
+../Core/Src/Buzzer.c:94:6:Buzzer_changeMelody	16	static
+../Core/Src/Buzzer.c:112:6:Buzzer_printMelodies	8	static
+../Core/Src/Buzzer.c:129:6:Buzzer_playTask	24	static

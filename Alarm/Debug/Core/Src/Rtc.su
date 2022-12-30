@@ -1,0 +1,7 @@
+../Core/Src/Rtc.c:50:6:Rtc_init	24	static
+../Core/Src/Rtc.c:65:12:bcdToInt	16	static
+../Core/Src/Rtc.c:81:16:intToBcd	24	static
+../Core/Src/Rtc.c:99:6:Rtc_getTime	40	static
+../Core/Src/Rtc.c:125:10:Rtc_getSeconds	48	static
+../Core/Src/Rtc.c:156:10:Rtc_convertToSec	24	static
+../Core/Src/Rtc.c:184:6:Rtc_setTime	40	static

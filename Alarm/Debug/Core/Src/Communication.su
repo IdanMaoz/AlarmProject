@@ -1,0 +1,4 @@
+../Core/Src/Communication.c:50:6:task	16	static
+../Core/Src/Communication.c:118:7:handle	96	static
+../Core/Src/Communication.c:150:6:Communication_handleTask	16	static
+../Core/Src/Communication.c:169:6:Communication_register	24	static
